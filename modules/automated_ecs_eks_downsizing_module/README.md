@@ -1,4 +1,3 @@
-```markdown
 # AWS Resource Scheduler for ECS & EKS
 
 Terraform module to automatically scale ECS services and EKS nodegroups during off-hours to reduce costs.
@@ -127,4 +126,3 @@ aws lambda invoke --function-name eks-scale-up response.json
 ## License
 
 Apache 2.0 Licensed. See [LICENSE](LICENSE) for full details.
-```
