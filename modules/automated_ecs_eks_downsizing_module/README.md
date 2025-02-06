@@ -32,8 +32,8 @@ Terraform module to automatically scale ECS services and EKS nodegroups during o
 
 1. Clone repository:
 ```bash
-git clone https://github.com/your-repo/aws-resource-scheduler.git
-cd aws-resource-scheduler
+git clone git@github.com:geek0ps/terraform_automation.git
+cd modules/automated_ecs_eks_downsizing_module
 ```
 
 2. Initialize Terraform:
